@@ -4,7 +4,7 @@ A graph with vertices representing cities and edges representing roads connectin
 
 ## Algorithm
 
-1. Yen's algorithm to find possible path. ( https://en.wikipedia.org/wiki/Yen%27s_algorithm )
+1. Yen's algorithm to find all possible paths. ( https://en.wikipedia.org/wiki/Yen%27s_algorithm )
 2. Filter possible paths, removing paths with hops longer than EV range,
 3. Simulate travelling shortest remaining path, counting required stops
 
